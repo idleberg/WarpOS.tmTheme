@@ -8,7 +8,7 @@ A color scheme inspired by [Warp Records][1]' old "Warp-OS" website
 
 ### TextMate
 
-1. Download a `.tmTheme` file of choice
+1. Download the `.tmTheme` file
 2. Copy the file to `~/Library/Application Support/TextMate/Themes`
 
 ### Sublime Text
