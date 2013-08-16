@@ -1,6 +1,6 @@
 # Warp-OS for TextMate & Sublime Text
 
-A color scheme inspired by the old [Warp Record][1] website
+A color scheme inspired by the old "[Warp-OS][1]" website
 
 ![Animated Screenshot][2]
 
@@ -17,7 +17,7 @@ A color scheme inspired by the old [Warp Record][1] website
 
 1. Make sure you already have [Package Control][3] installed
 2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
-3. Select *WarpOS Color Scheme* and press `Enter`
+3. Select *Warp-OS Color Scheme* and press `Enter`
 
 With [auto_upgrade][4] enabled, Package Control will keep all installed packages up-to-date!
 
