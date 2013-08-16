@@ -1,6 +1,6 @@
 # Warp-OS for TextMate & Sublime Text
 
-A color scheme inspired by [Warp Records][1]' old "*Warp-OS*" website
+A color scheme inspired by [Warp Records][1]' old "Warp-OS" website
 
 ![Animated Screenshot][2]
 
