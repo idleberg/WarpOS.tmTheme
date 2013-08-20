@@ -19,7 +19,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/WarpOS.tmTheme</string>
 	<key>semanticClass</key>
-	<string>theme.warp-os</string>
+	<string>theme.dark.warp-os</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
