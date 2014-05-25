@@ -1,4 +1,4 @@
-# Warp-OS for TextMate & Sublime Text
+# Warp-OS for TextMate & Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/WarpOS.tmTheme.png)](http://travis-ci.org/idleberg/WarpOS.tmTheme)
 
 A color scheme inspired by [Warp Records][1]' old "Warp-OS" website
 
